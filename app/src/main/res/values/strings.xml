@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RC Car App</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="Speed25_text">Speed: 25%</string>
+    <string name="Speed50_text">Speed: 50%</string>
+    <string name="Speed75_text">Speed: 75%</string>
+    <string name="Speed100_text">Speed: 100%</string>
+    <string name="speed50_button_toast_text">Speed changed to 50%</string>
+    <string name="speed75_button_toast_text">Speed changed to 75%</string>
+    <string name="speed100_button_toast_text">Speed changed to 100%</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Press button to connect</string>
+    <string name="second_fragment_label">Control RC Car using arrows</string>
+    <string name="ConnectRCCar_text">Connect to RC Car</string>
+    <string name="connect_button_toast_text">Connecting...</string>
+    <string name="disconnect_button_toast_text">Disconnected!</string>
+    <string name="cannot_disconnect_button_toast_text">First connect to RC Car!</string>
+    <string name="left_button_toast_text">Going left!</string>
+    <string name="middle_button_toast_text">Steering reset!</string>
+    <string name="right_button_toast_text">Going right!</string>
+    <string name="back_button_toast_text">Going back!</string>
+    <string name="forward_button_toast_text">Going forward!</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Hello World!
+    </string>
+</resources>
